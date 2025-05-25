@@ -53,4 +53,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Designed & developed by [Your Name].**
+**Designed & developed by Ibrohim.**
